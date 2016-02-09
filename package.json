@@ -1,0 +1,26 @@
+{
+  "name": "phobos-test",
+  "version": "0.0.0",
+  "description": "A test application running Phobos.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Timofiiv (http://fiiv.io)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cors": "^2.7.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "express-query-params": "^0.2.0",
+    "inflected": "^1.1.6",
+    "jsonwebtoken": "^5.5.4",
+    "kerberos": "0.0.18",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.2",
+    "morgan": "^1.6.1",
+    "phobosjs": "^1.0.21",
+    "response-time": "^2.3.1"
+  }
+}
